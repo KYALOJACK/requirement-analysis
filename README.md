@@ -51,6 +51,7 @@ Here is a use case diagram for the booking system, showing actors such as **User
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+
 ## Acceptance Criteria
 
 Acceptance Criteria are conditions that a feature must meet to be accepted by stakeholders. They ensure that the system meets the expected quality and functionality. For the Checkout feature in the booking management system, an example of acceptance criteria could be:
